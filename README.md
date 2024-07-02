@@ -1,4 +1,4 @@
-基于https://github.com/Skythinker616/foc-wheel-legged-robot，在原有开源项目的基础上重写大部分主控制代码。主要改变如下：
+基于"https://github.com/Skythinker616/foc-wheel-legged-robot"，在原有开源项目的基础上重写大部分主控制代码。主要改变如下：
 
 1. 将机器人平衡控制换为PID控制。
 2. 腿部关节控制方式为无刷电机位置控制方式。
