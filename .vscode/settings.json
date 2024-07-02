@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "ratio": "cpp",
+        "esp_task_wdt.h": "c",
+        "string.h": "c",
+        "functional": "cpp",
+        "legs.cpp": "c",
+        "math.h": "c",
+        "*.ipp": "cpp",
+        "cmath": "cpp",
+        "optional": "cpp",
+        "istream": "cpp",
+        "ostream": "cpp",
+        "system_error": "cpp",
+        "array": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp",
+        "utility": "cpp",
+        "thread": "cpp",
+        "string": "cpp",
+        "string_view": "cpp"
+    }
+}
